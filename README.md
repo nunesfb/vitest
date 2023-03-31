@@ -5,8 +5,8 @@
 </h1>
 
 <h3 align="center">
-  Neste vídeo vamos trabalhar com o Vite em uma aplicação com React JS.<br/>
-  Vamos aprender como ele funciona, realizar a migração de um projeto funcionando com Create React App (CRA) para o Vite e além disso, criar uma aplicação do zero usando o Vite.
+  Neste vídeo vamos trabalhar com o Vitest em uma aplicação com React JS.<br/>
+  Vamos aprender como ele funciona, sua configuração inicial e como rodar os testes unitários e de cobertura.
 </h3>
 
 <p align="center">Estes códigos pertencem à playlist de vídeos do canal TecEdu4All no YouTube</p> 
